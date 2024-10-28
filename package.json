@@ -39,6 +39,7 @@
 	"dependencies": {
 		"bits-ui": "^0.21.16",
 		"dotenv": "^16.4.5",
+		"gsap": "npm:@gsap/shockingly@^3.12.5",
 		"lucide-svelte": "^0.454.0"
 	}
 }
